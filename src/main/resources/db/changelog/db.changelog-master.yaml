@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/changes/create-table-customers.sql
+  - include:
+      file: db/changelog/changes/create-table-orders.sql
+  - include:
+      file: db/changelog/changes/insert-default-customers.sql
