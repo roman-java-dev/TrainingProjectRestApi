@@ -1,0 +1,142 @@
+[
+  {
+    "customerId": 1,
+    "orderDate": "2028-04-09",
+    "statusPayment": true,
+    "description": "Jeans, Umbrella, Sneakers",
+    "totalPrice": 210.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-09",
+    "statusPayment": false,
+    "description": "Gloves, Lamp, Soap, T-shirt",
+    "totalPrice": -135.50
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-10",
+    "statusPayment": true,
+    "description": "Glasses, T-shirt",
+    "totalPrice": 80.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-10",
+    "statusPayment": true,
+    "description": "Laptop, Backpack, Coat, Towels",
+    "totalPrice": 550.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-11",
+    "statusPayment": false,
+    "description": "Shorts, T-shirt, Aroma lamp",
+    "totalPrice": 45.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-11",
+    "statusPayment": true,
+    "description": "Soap",
+    "totalPrice": 400.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-12",
+    "statusPayment": false,
+    "description": "Mugs, Bed linen, Shoes, Backpack",
+    "totalPrice": 180.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-12",
+    "statusPayment": true,
+    "description": "Basketball, Umbrella, Bed linen",
+    "totalPrice": 65.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-13",
+    "statusPayment": true,
+    "description": "Gloves, Shirt",
+    "totalPrice": 95.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-13",
+    "statusPayment": false,
+    "description": "Curtains, T-shirt, Pillow",
+    "totalPrice": 125.50
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-14",
+    "statusPayment": true,
+    "description": "Fishing rods, Lamp, Aroma lamp",
+    "totalPrice": 240.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-14",
+    "statusPayment": true,
+    "description": "Jeans, Bed linen, Shirt, Aroma lamp",
+    "totalPrice": 320.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-15",
+    "statusPayment": false,
+    "description": "Brush, Basketball, Soap, T-shirt",
+    "totalPrice": 195.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-15",
+    "statusPayment": true,
+    "description": "Bed linen, Mop, Shoes",
+    "totalPrice": 160.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-16",
+    "statusPayment": true,
+    "description": "Blanket, Coat",
+    "totalPrice": 180.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-16",
+    "statusPayment": false,
+    "description": "Pencils, Shoes",
+    "totalPrice": 50.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-17",
+    "statusPayment": true,
+    "description": "Ball, Coat, Towels, Aroma lamp",
+    "totalPrice": 235.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-17",
+    "statusPayment": false,
+    "description": "Sandals, Shorts",
+    "totalPrice": 60.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-18",
+    "statusPayment": true,
+    "description": "Jeans, Lamp, Glasses, Bed linen",
+    "totalPrice": 310.00
+  },
+  {
+    "customerId": 1,
+    "orderDate": "2024-04-18",
+    "statusPayment": true,
+    "description": "Coat, Sneakers",
+    "totalPrice": 280.00
+  }
+]
